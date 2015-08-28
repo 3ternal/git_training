@@ -2,5 +2,5 @@
 knock, knock
 who's there?
 Git
-Git who?
-Git this joke over with!
+Git Who?
+Git on with the assignment!
